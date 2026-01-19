@@ -1,4 +1,4 @@
-# Stable Diffusion Prompt Generator
+# Modular Prompt Builder
 
 A Next.js app for generating optimized Stable Diffusion XL prompts with organized sections and drag-and-drop reordering.
 
